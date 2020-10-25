@@ -1,0 +1,3 @@
+*.swp
+/base/*.swp
+/overlays/production/*.swp
